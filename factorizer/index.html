@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <title>Factorizer</title>
+
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <script src="factorizer.js"></script>
+  <link rel="stylesheet" href="style.css" crossorigin="anonymous" />
+</head>
+
+<body>
+  <div class="result-container" id="resContainer">
+    <div class="header">FACTORIZER</div>
+    <div class="input">{{ number }}</div>
+    <div class="factorized" v-html="factorizedResult"></div>
+  </div>
+  <div class="button-container" id="btnContainer">
+    <div class="button-row">
+      <div class="button" @click="input(1)">1</div>
+      <div class="button" @click="input(2)">2</div>
+      <div class="button" @click="input(3)">3</div>
+      <div class="button" @click="input(4)">4</div>
+      <div class="button" @click="input(5)">5</div>
+      <div class="button" @click="input(10)">⌫</div>
+    </div>
+    <div class="button-row">
+      <div class="button" @click="input(6)">6</div>
+      <div class="button" @click="input(7)">7</div>
+      <div class="button" @click="input(8)">8</div>
+      <div class="button" @click="input(9)">9</div>
+      <div class="button" @click="input(0)">0</div>
+      <div class="button" @click="input(11)">C</div>
+    </div>
+  </div>
+</body>
