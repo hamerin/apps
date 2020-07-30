@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gradecalc/static/css/main.508fd98b.chunk.css",
+    "main.js": "/gradecalc/static/js/main.434a80a7.chunk.js",
+    "main.js.map": "/gradecalc/static/js/main.434a80a7.chunk.js.map",
+    "runtime-main.js": "/gradecalc/static/js/runtime-main.4dd00ae4.js",
+    "runtime-main.js.map": "/gradecalc/static/js/runtime-main.4dd00ae4.js.map",
+    "static/css/2.c1b209d5.chunk.css": "/gradecalc/static/css/2.c1b209d5.chunk.css",
+    "static/js/2.47e7b26d.chunk.js": "/gradecalc/static/js/2.47e7b26d.chunk.js",
+    "static/js/2.47e7b26d.chunk.js.map": "/gradecalc/static/js/2.47e7b26d.chunk.js.map",
+    "index.html": "/gradecalc/index.html",
+    "precache-manifest.51b62751e3635f0f13694ef29e666e21.js": "/gradecalc/precache-manifest.51b62751e3635f0f13694ef29e666e21.js",
+    "service-worker.js": "/gradecalc/service-worker.js",
+    "static/css/2.c1b209d5.chunk.css.map": "/gradecalc/static/css/2.c1b209d5.chunk.css.map",
+    "static/css/main.508fd98b.chunk.css.map": "/gradecalc/static/css/main.508fd98b.chunk.css.map",
+    "static/js/2.47e7b26d.chunk.js.LICENSE.txt": "/gradecalc/static/js/2.47e7b26d.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/gradecalc/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dd00ae4.js",
+    "static/css/2.c1b209d5.chunk.css",
+    "static/js/2.47e7b26d.chunk.js",
+    "static/css/main.508fd98b.chunk.css",
+    "static/js/main.434a80a7.chunk.js"
+  ]
+}
