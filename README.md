@@ -1,1 +1,1 @@
-# himyu-apps
+# apps
